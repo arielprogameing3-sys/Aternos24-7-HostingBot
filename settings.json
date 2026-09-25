@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "OverSale_Bot",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "OverSale.aternos.me",
+    "port": 58233,
     "version": "",
     "try-creative": false
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "/register 12345678 12345678",
         "I like to play Minecraft!"
       ]
     },
