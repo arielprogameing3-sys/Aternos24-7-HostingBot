@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "OverSale.aternos.me",
-    "port": ,
-    "version": "",
+    "port": 58233 ,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
